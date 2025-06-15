@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: guideos-energy-tool
-Source: https://github.com/GuideOS/guideos-energy-tool
+Upstream-Name: guideos-info-tool
+Source: https://github.com/GuideOS/guideos-info-tool
 
 Files: *
 Copyright: 2025 evilware666

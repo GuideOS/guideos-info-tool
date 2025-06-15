@@ -9,5 +9,8 @@ Homepage: https://guideos.de/
 Package: guideos-info-tool
 Architecture: all
 Depends: ${misc:Depends}, bash, zenity
-Description: A tool to set the energy consumption of a device
- This tool allows you to set the energy consumption of a device.
+Description: A tool to display information about the current system
+ This tool provides a graphical interface to display various system
+ information such as CPU, memory, disk usage, and more. It is designed
+ to be user-friendly and easy to use, making it suitable for both
+ beginners and advanced users.
