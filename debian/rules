@@ -16,5 +16,6 @@ override_dh_install:
 	install -m 644 guideos-info-tool.png debian/$(PACKAGE)/usr/share/icons/hicolor/256x256/guideos-info-tool.png
 	install -m 644 guideos-info-tool.svg debian/$(PACKAGE)/usr/share/icons/hicolor/scalable/apps/guideos-info-tool.svg
 
+	./create_desktop_files.sh
 
 	dh_install
